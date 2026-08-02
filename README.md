@@ -11,6 +11,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/vamlax/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -20,4 +21,8 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/vamlax/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
