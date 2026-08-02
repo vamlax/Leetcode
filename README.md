@@ -11,6 +11,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/vamlax/Leetcode/tree/master/0704-binary-search) |
@@ -38,6 +39,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
 ## Simulation
 |  |
@@ -52,4 +54,16 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vamlax/Leetcode/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
