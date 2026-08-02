@@ -13,6 +13,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 | ------- |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
+| [1929-concatenation-of-array](https://github.com/vamlax/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/vamlax/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -34,4 +35,8 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/vamlax/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
