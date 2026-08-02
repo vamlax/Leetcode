@@ -11,6 +11,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vamlax/Leetcode/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vamlax/Leetcode/tree/master/0001-two-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/vamlax/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
