@@ -15,6 +15,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 | [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/vamlax/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vamlax/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/vamlax/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vamlax/Leetcode/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/vamlax/Leetcode/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vamlax/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/vamlax/Leetcode/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vamlax/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Simulation
 |  |
 | ------- |
