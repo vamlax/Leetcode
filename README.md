@@ -6,6 +6,7 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/vamlax/Leetcode/tree/master/0050-powx-n) |
 | [2235-add-two-integers](https://github.com/vamlax/Leetcode/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/vamlax/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Array
@@ -84,4 +85,8 @@ Java solutions to LeetCode problems, organized and version-controlled with Git.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vamlax/Leetcode/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vamlax/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
